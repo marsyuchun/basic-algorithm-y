@@ -1,1 +1,1 @@
-# basic-algorithm-y
+# basic-algorithm
